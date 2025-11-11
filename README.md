@@ -19,6 +19,8 @@ ng serve
 - Sistema de Gerenciamento de Voos
     -
 
+# Livro de Eng Software Moderna
+[Eng. Soft Moderna - Requisitos](https://engsoftmoderna.info/cap3.html)
 
 ## Nome do projetor
 
