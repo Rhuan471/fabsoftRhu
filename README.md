@@ -17,7 +17,10 @@ ng serve
 ## Propostas de projeto
 
 - Sistema de Gerenciamento de Voos
-    -
+    - Como um Atendente, eu gpstaria de registrar os dados do cliente como: nome, email, cpf, telefone
+    - Como um Atendente, eu gostaria de registrar os dados do avião na embarcação como: marca do modelo, data do voo, horário de decolagem e a quantidade de assentos disponíveis no avião
+    - Como um atendente, eu gostaria de vincular o avião ao cliente
+    
 
 # Livro de Eng Software Moderna
 [Eng. Soft Moderna - Requisitos](https://engsoftmoderna.info/cap3.html)
