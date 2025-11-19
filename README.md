@@ -17,9 +17,11 @@ ng serve
 ## Propostas de projeto
 
 - Sistema de Gerenciamento de Voos
-    - Como um Atendente, eu gpstaria de registrar os dados do cliente como: nome, email, cpf, telefone
-    - Como um Atendente, eu gostaria de registrar os dados do avião na embarcação como: marca do modelo, data do voo, horário de decolagem e a quantidade de assentos disponíveis no avião
-    - Como um atendente, eu gostaria de vincular o avião ao cliente
+ - Criar e Acompanhar projetos
+ - Gestão Financeira
+ - Compra Inteligente
+ - Backup na Nuvem
+ - Migração de Sistemas
     
 
 # Livro de Eng Software Moderna
@@ -39,9 +41,9 @@ git config --global user.name "NOME DO USUARIO NO GITHUB"
 git config --global user.email "EMAIL DA CONTA DO GITHUB"
 ```
 ## Histórias de Usuários
-  -
-  -
-  -
+- Como um Atendente, eu gpstaria de registrar os dados do cliente como: nome, email, cpf, telefone
+- Como um Atendente, eu gostaria de registrar os dados do avião na embarcação como: marca do modelo, data do voo, horário de decolagem e a quantidade de assentos disponíveis no avião
+- Como um atendente, eu gostaria de vincular o avião ao cliente
 
 ### Commit e Push
 
