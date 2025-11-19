@@ -17,11 +17,11 @@ ng serve
 ## Propostas de projeto
 
 - Sistema de Gerenciamento de Voos
- - Criar e Acompanhar projetos
- - Gestão Financeira
- - Compra Inteligente
- - Backup na Nuvem
- - Migração de Sistemas
+  - Criar e Acompanhar projetos
+  - Gestão Financeira
+  - Compra Inteligente
+  - Backup na Nuvem
+  - Migração de Sistemas
     
 
 # Livro de Eng Software Moderna
